@@ -1,0 +1,88 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I am a software engineer with experience building website and applications using Javascript, React & Reduct, and Ruby on rails. I am truly passionate about programming. I often found myself spending a lot of time thinking about programming puzzles and different way to solve problems. That was the moment I realized I enjoy programming. I competed course from App Academy, one of the most selective bootcamps. Spending 100+ hrs every week, I sharpened my my programming ability in React and JavaScript. I created an Amazon-like website, a money management website, and a javascript game.",
+      "description2": "When I am not coding, I love going to gym and doing outdoor activities. I also enjoying walking around the street and exploring yummy food.", 
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Ama2on",
+        "startDate": "2021",
+        "description": "Ama2on is e-commence website where buyers can search for products they like. They can check the price and select the affordable one.",
+        "images": [
+          "images/portfolio/ama2on/p1.png",
+          "images/portfolio/ama2on/p2.png"
+        ],
+        "url": "https://github.com/chen445/Ama2on",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          }
+        ]
+      },
+      {
+        "title": "MoneyBuddy",
+        "startDate": "2021",
+        "description": "Moneybuddy is a website designed to keep track of users' expenses, and income. The website supports many features to help users to manage money and achieve financial goals.",
+        "images": [
+          "images/portfolio/money_buddy/p1.png",
+          "images/portfolio/money_buddy/p2.png"
+        ],
+        "url": "https://github.com/chen445/MoneyBuddy",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongodb"
+          },
+          {
+            "class": "devicon-express-original-wordmark",
+            "name": "Express.js"
+
+          }, 
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+             "class":"devicon-nodejs-plain",
+             "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Matching Foods",
+        "startDate": "2021",
+        "description": "Matching Foods is an elimination game where players must find all the images that can be eliminate.",
+        "images": [
+          "images/portfolio/matching_foods/p1.png",
+          "images/portfolio/matching_foods/p2.png"
+        ],
+        "url": "https://github.com/chen445/Matching",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      }
+    ]
+  }
