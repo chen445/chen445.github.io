@@ -19,7 +19,7 @@
           "images/portfolio/ama2on/p1.png",
           "images/portfolio/ama2on/p2.png"
         ],
-        "url": "https://github.com/chen445/Ama2on",
+        "url": "https://ama2on.herokuapp.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -47,7 +47,7 @@
           "images/portfolio/money_buddy/p1.png",
           "images/portfolio/money_buddy/p2.png"
         ],
-        "url": "https://github.com/chen445/MoneyBuddy",
+        "url": "https://moneybuddy2.herokuapp.com/#/",
         "technologies": [
           {
             "class": "devicon-mongodb-plain",
@@ -76,7 +76,7 @@
           "images/portfolio/matching_foods/p1.png",
           "images/portfolio/matching_foods/p2.png"
         ],
-        "url": "https://github.com/chen445/Matching",
+        "url": "https://chen445.github.io/Matching/index.html",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
